@@ -1,16 +1,16 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
+    "name": "Chocolate Circles Redux",
+    "author": "PatrickMamusiaGamer",
     "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verifier": "Thebacon_gamer25",
+    "verification": "https://youtu.be/pkJG8U769EQ?si=ThJMlQdGEKEYvW3I",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "enimeoww",
+            "link": "https://www.youtube.com/watch?v=nEI_UVAf8P4",
             "percent": 100,
             "hz": 360
         }
